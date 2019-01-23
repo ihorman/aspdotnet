@@ -12072,23 +12072,23 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/ihorman/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jelastic/APP/myWebApp/myWebApp.csproj",
+      "projectUniqueName": "/DATA/DevRepository/dotnetcoresample/aspdotnet/myWebApp.csproj",
       "projectName": "myWebApp",
-      "projectPath": "/home/jelastic/APP/myWebApp/myWebApp.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/jelastic/APP/myWebApp/obj/",
+      "projectPath": "/DATA/DevRepository/dotnetcoresample/aspdotnet/myWebApp.csproj",
+      "packagesPath": "/Users/ihorman/.nuget/packages/",
+      "outputPath": "/DATA/DevRepository/dotnetcoresample/aspdotnet/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/Users/ihorman/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
